@@ -39,7 +39,7 @@ Estamos sempre buscando novas contribuições para melhorar o TaskHub! Para come
 
 ## Contato
 
-Se você tiver dúvidas ou precisar de ajuda, entre em contato com a equipe através das [Discussões](https://github.com/TaskHub-ops/discussions) ou abra uma issue em um dos repositórios.
+Se você tiver dúvidas ou precisar de ajuda, entre em contato com a equipe através das [Discussões](https://github.com/orgs/TaskHub-ops/discussions) ou abra uma issue em um dos repositórios.
 
 Obrigado por contribuir para o TaskHub! Estamos ansiosos para ver suas contribuições e trabalhar juntos para criar um ótimo projeto.
 
